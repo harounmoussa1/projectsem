@@ -26,7 +26,7 @@ const Risotto = () => {
         <div className="recipe-content-risotto">
           <div className="recipe-left-risotto">
             <img
-              src="assets/risotto.jpg"
+              src="assets/risotto.png"
               alt="Risotto Primavera"
               className="recipe-image-risotto"
             />

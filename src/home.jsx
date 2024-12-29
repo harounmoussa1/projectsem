@@ -4,10 +4,12 @@ import './app.css';
 import App from './app'; 
 import Chatbot from './chatbot';
 import Header from './header';
+import SearchBar from './search';
 
 function Home (){
 
 ReactDOM.render(
+ 
   <React.StrictMode>
     <Header/>
     <App />
